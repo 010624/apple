@@ -1,0 +1,23 @@
+2nd/3rd - 10 10  ; 
+               100 100
+4th - center 250 250;
+         radii 70
+5th - center 250 250;
+         rx 70 , ry 30
+7th - h 0 ; k 0 ; r 70
+10 - vertices 3 ;
+       100 100 ;
+       300 100;
+       200 300
+
+
+Exp1 - only a.out
+Exp2- 25 40 75 80
+Exp3 - 100 80 200 300
+Exp4 - 150 200 60
+Exp5- 60 40 0 0
+Exp6- only a.out
+Ecp7- 30 40 45
+Exp8- only a.out
+Ecp9- only a.out
+Exp 10 - r ka 45 s ka 0.5 0.5
